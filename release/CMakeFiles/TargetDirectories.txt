@@ -1,0 +1,9 @@
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/edit_cache.dir
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/rebuild_cache.dir
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/mono_euroc.dir
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/mono_kitti.dir
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/mono_tum.dir
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/ORB_SLAM2.dir
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/rgbd_tum.dir
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/stereo_kitti.dir
+/home/dell/catkin_ws/src/ORB_SLAM2/release/CMakeFiles/stereo_euroc.dir
